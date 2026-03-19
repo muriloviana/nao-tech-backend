@@ -1,4 +1,4 @@
-# Simulador de Radar de Velocidade (Condicionais if/else)
+# Condicionais if/else
 
 **Objetivo:** Entender como o código toma decisões baseadas em condições.
 
